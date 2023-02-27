@@ -19,10 +19,10 @@ const MainContent = () => {
 
         <div className="row">
           <div className="col-12 text-center mt-5 mb-4 fw-bold">Mobil</div>
-          <div className="col-12"><CardMobil2  image={ Mercedes1 } /></div>
-          <div className="col-12 mt-3"><CardMobil2  image={ Mercedes2 } /></div>
-          <div className="col-12 mt-3"><CardMobil2  image={ Mercedes3 } /></div>
-          <div className="col-12 mt-3"><CardMobil2  image={ Mercedes1 } /></div>
+          <div className="col-12"><CardMobil2 /></div>
+          <div className="col-12 mt-3"><CardMobil2 /></div>
+          <div className="col-12 mt-3"><CardMobil2 /></div>
+          <div className="col-12 mt-3"><CardMobil2 /></div>
         </div>
       </div>
   )
